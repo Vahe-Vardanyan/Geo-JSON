@@ -1,0 +1,24 @@
+.navbar-default {
+    background-color: #353030;
+    border-color: #575757;
+    margin-top: 5px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+#formsend {
+    height: 80px;
+    padding: 20px 0 0 0;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
